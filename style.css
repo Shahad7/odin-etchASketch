@@ -1,0 +1,43 @@
+.content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height:100vh;
+    width:100vw;
+    justify-content: center;
+}
+
+.temp{
+    background:white;
+    flex-grow: 1;
+    display:flex;
+    flex-direction: column;
+}
+.temp div{
+    flex-grow: 1;
+}
+
+.grid{
+    display: flex;
+    height:500px;
+    width:500px;
+    
+}
+
+.container{
+    margin-top: 60px;
+    align-self: center;
+    border:solid black 2px;
+    height:500px;
+    width:500px;
+    display: flex;
+}
+button{
+   background-color:midnightblue;
+   color:white;
+
+    
+}
+body{
+    margin-top: 0;
+}
