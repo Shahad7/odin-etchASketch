@@ -35,9 +35,14 @@
 button{
    background-color:midnightblue;
    color:white;
+   height:30px;
+   width:80px;
+   font-size: large;
+   color:
 
     
 }
 body{
     margin-top: 0;
+    background-color: black;
 }
